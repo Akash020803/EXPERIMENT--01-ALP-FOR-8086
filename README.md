@@ -95,7 +95,7 @@ HLT;
 ```
 
 ## Output  
-![1]()
+![1](1.PNG)
 
 
 ## Subtraction of 8 bit numbers ALP : 
@@ -115,7 +115,7 @@ HLT;
 ```
 
 ## Output 
-![2]()
+![2](2.PNG)
 
 
 ## Multiplication of 8 bit numbers ALP :
@@ -132,7 +132,7 @@ HLT;
 ```
 
  ## Output  
-![3]()
+![3](3.PNG)
 
 
 ## Division of 8 bit numbers ALP :
@@ -149,7 +149,7 @@ HLT;
 ```
 
 ## Output  
-![4]()
+![4](4.PNG)
 
 
 ## Result :
